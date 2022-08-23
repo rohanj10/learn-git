@@ -16,3 +16,13 @@ commit -> save  the file in git
 push -> upload the changed file from local device to github 
 
 example 
+
+
+git remote set-url origin https://<githubtoken>@github.com/<username>/<repositoryname>.git
+
+git
+
+
+to get new code / branch  - command is git fetch origin/master
+
+to checkout to a new branch command - git checkout 1-basic-git-commands
