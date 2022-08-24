@@ -7,6 +7,8 @@ clone --> bringing repository from git to local device/computer
 example:-
 sudo git clone https://github.com/rohanj10/learn-git.git
 
+next step :- cd \\repository name
+
 git status - this is to track files that are changed 
 
 add -> / add new file to it  
