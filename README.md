@@ -35,8 +35,6 @@ git remote set-url origin https://<githubtoken>@github.com/<username>/<repositor
 
 
 
-
-to get new code / branch  - command is git fetch origin/master
 | Command | Description |
 | - | -|
 |git fetch origin/master | to get a new branch |
