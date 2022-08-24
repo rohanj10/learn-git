@@ -1,10 +1,12 @@
 # learn-git
-learning
-commands 
+
+***Learning Git Commands***
+
+>A cheat sheet for uncommon Git command
 
 clone --> bringing repository from git to local device/computer 
 
-example:-
+'example':-
 sudo git clone https://github.com/rohanj10/learn-git.git
 
 next step :- cd \\repository name
@@ -28,3 +30,7 @@ git
 to get new code / branch  - command is git fetch origin/master
 
 to checkout to a new branch command - git checkout 1-basic-git-commands
+  
+  
+ >This site was built using [GitHub Pages](https://pages.github.com/).
+  > for contacting me [Instagram](https://www.instagram.com/rohanjaiswal100/)
